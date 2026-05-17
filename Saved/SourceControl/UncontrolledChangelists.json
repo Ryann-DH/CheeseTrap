@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/TestEnviorment.umap",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Inputs/Input_Look.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Inputs/Input_Interact.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Player/BP_PlayerCont.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interfaces/Interface_Interact.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/Cube_interact.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Maps/TestEnviorment.umap",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Player/BP_GameMode.uasset"
+			]
+		}
+	]
+}
