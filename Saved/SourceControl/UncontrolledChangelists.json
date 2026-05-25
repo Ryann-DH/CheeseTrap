@@ -19,8 +19,7 @@
 				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Player/BP_GameMode.uasset",
 				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_CubeInteract.uasset",
 				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_Pickup.uasset",
-				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Enemy/Turret/BP_TurretProjectile.uasset",
-				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Enemy/Turret/BP_Turret.uasset"
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/BP_Door.uasset"
 			]
 		}
 	]
