@@ -21,7 +21,26 @@
 				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_Pickup.uasset",
 				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/BP_Door.uasset",
 				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/BP_Button.uasset",
-				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/MAT_Color1.uasset"
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/MAT_Color1.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/BP_lightSwitch.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/BP_ElecCrod.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/BP_CoffeePot.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Material/MAT_Color1.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/non-interact_objects/BP_Outlet.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/AnimatedInteractables/BP_Stovetop.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/non-interact_objects/BP_Sink.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/NewBlueprint.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_Chair.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_Cage.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/non-interact_objects/BP_shelf.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Enemy/Cactus/BP_Cactus.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Enemy/Damage_Objects/BP_Nail.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/non-interact_objects/BP_fridgphoto.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/non-interact_objects/BP_spicerack.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_GoldenCheese.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_lightSwitch.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_CoffeePot.uasset",
+				"C:/Users/ryann/Documents/Unreal Projects/CheeseTrap/Content/Interactables/BP_ElecCrod.uasset"
 			]
 		}
 	]
